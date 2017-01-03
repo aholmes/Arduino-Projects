@@ -1,3 +1,11 @@
+/*
+References:
+
+* RTC https://www.arduino.cc/en/Tutorial/WiFiRTC
+* MKR1000 getting started https://www.arduino.cc/en/Guide/MKR1000
+* Tone output https://www.arduino.cc/en/Tutorial/ToneMelody
+*/
+
 #include <SPI.h>
 #include <NTPClient.h>
 #include <WiFi101.h>
